@@ -155,8 +155,8 @@ function DurationChart({ confirmedStays }) {
             data={data}
             nameKey="duration"
             dataKey="value"
-            innerRadius={85}
-            outerRadius={110}
+            innerRadius={60}
+            outerRadius={90}
             cx="40%"
             xy="50%"
             paddingAngle={3}
